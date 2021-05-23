@@ -1,0 +1,11 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: cadetblue;
+    background-position: center center;
+    border-radius: 50%;
+    text-align: center;
+
+}
